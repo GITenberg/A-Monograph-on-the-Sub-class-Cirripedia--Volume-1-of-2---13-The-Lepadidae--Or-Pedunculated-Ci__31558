@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31558#A-Monograph-on-the-Sub-class-Cirripedia--Volume-1-of-2---13-The-Lepadidae--Or-Pedunculated-Ci_
 gutenberg_bookshelf:
 - Animals-Wild
 - Animal
